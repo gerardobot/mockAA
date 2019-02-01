@@ -5,10 +5,11 @@
   "message": "",
   "data": [
     {
+      "id": "001",
       "application": "APPMEDIADOR",
       "user": "MZABRPM",
       "channel": "A",
-      "title": "Notificación de pruebna",
+      "title": "Notificación de prueba",
       "message": "Esto es una notificación de prueba",
       "url": "http://wwww.generali.es",
       "idNotification": "001",
@@ -17,6 +18,7 @@
       "language": "es"
     },
     {
+      "id": "002",
       "application": "APPMEDIADOR",
       "user": "MZABRPM",
       "channel": "A",
@@ -29,6 +31,7 @@
       "language": "es"
     },
     {
+      "id": "003",
       "application": "APPMEDIADOR",
       "user": "MZABRPM",
       "channel": "A",
