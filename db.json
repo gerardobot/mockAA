@@ -1,0 +1,139 @@
+{
+"notifications": {
+  "statusCode": "OK",
+  "code": "200",
+  "message": "",
+  "data": [
+    {
+      "application": "APPMEDIADOR",
+      "user": "MZABRPM",
+      "channel": "A",
+      "title": "Notificación de pruebna",
+      "message": "Esto es una notificación de prueba",
+      "url": "http://wwww.generali.es",
+      "idNotification": "001",
+      "signTimestamp": "false",
+      "expire": "3600",
+      "language": "es"
+    },
+    {
+      "application": "APPMEDIADOR",
+      "user": "MZABRPM",
+      "channel": "A",
+      "title": "Segunda notificación de pruebna",
+      "message": "Esto es otra notificación de prueba",
+      "url": "http://wwww.generali.es",
+      "idNotification": "002",
+      "signTimestamp": "false",
+      "expire": "3600",
+      "language": "es"
+    },
+    {
+      "application": "APPMEDIADOR",
+      "user": "MZABRPM",
+      "channel": "A",
+      "title": "Tercera notificación de pruebna",
+      "message": "Esta es la última notificación de prueba",
+      "url": "http://wwww.generali.es",
+      "idNotification": "003",
+      "signTimestamp": "false",
+      "expire": "3600",
+      "language": "es"
+    }
+  ]
+},
+"tasks": 
+{
+  "statusCode": "OK",
+  "code": "200",
+  "message": "",
+  "data": {
+    "mediatorCode": "MZABRPM",
+    "mediatorName": "John Doe",
+    "listTasks": [
+      {
+        "taskId": "001",
+        "taskName": "",
+        "taskStatus": "",
+        "taskDateStart": "",
+        "subtaskId": "",
+        "taskDateEnd": "",
+        "taskType": "Oportunidad",
+        "planName": "Lead mi página web cliente",
+        "taskClaim": "",
+        "taskPolizy": "",
+        "taskReceipt": "",
+        "customerId": "0752770506",
+        "customerName": "",
+        "customerType": "",
+        "customerNif": "",
+        "customerPhone": "",
+        "customerMobilePhone": "",
+        "customerEmail": "",
+        "customerAdress": "",
+        "customerPopulation": "",
+        "customerPostalCode": "",
+        "customerProvinceCode": "",
+        "customerProvinceName": "",
+        "customerBirthdate": "",
+        "customerRating": ""
+      },
+      {
+        "taskId": "002",
+        "taskName": "",
+        "taskStatus": "",
+        "taskDateStart": "",
+        "subtaskId": "",
+        "taskDateEnd": "",
+        "taskType": "Alarma",
+        "planName": "Solicitud presupuesto SAC",
+        "taskClaim": "",
+        "taskPolizy": "",
+        "taskReceipt": "4156935311",
+        "customerId": "0752770506",
+        "customerName": "Ricardo Duran Duran",
+        "customerType": "",
+        "customerNif": "",
+        "customerPhone": "",
+        "customerMobilePhone": "",
+        "customerEmail": "",
+        "customerAdress": "",
+        "customerPopulation": "",
+        "customerPostalCode": "",
+        "customerProvinceCode": "",
+        "customerProvinceName": "",
+        "customerBirthdate": "",
+        "customerRating": ""
+      },
+      {
+        "taskId": "003",
+        "taskName": "",
+        "taskStatus": "",
+        "taskDateStart": "",
+        "subtaskId": "6ef82a35-48c6-4bdb-800d-40749eaaa574",
+        "taskDateEnd": "",
+        "taskType": "Alarma",
+        "planName": "Una tarea completa",
+        "taskClaim": "33600150",
+        "taskPolizy": "331000001",
+        "taskReceipt": "4156935311",
+        "customerId": "0752770506",
+        "customerName": "Un cliente",
+        "customerType": "",
+        "customerNif": "",
+        "customerPhone": "",
+        "customerMobilePhone": "",
+        "customerEmail": "",
+        "customerAdress": "",
+        "customerPopulation": "",
+        "customerPostalCode": "",
+        "customerProvinceCode": "",
+        "customerProvinceName": "",
+        "customerBirthdate": "",
+        "customerRating": ""
+      }
+    ]
+  }
+}
+
+}
